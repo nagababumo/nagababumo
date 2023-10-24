@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagababumo&label=Profile%20views&color=0e75b6&style=flat" alt="nagababumo" /> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Generative AI & LLMS**
 
-- 👯 I’m looking to collaborate on **machine learning and data science projects**
+- 👯 I’m looking to collaborate on **Generative AI,machine learning and data science projects**
 
 - 💬 Ask me about **machine learning , data science ,deep learning,flask,mern,html,python & javascript**
 
