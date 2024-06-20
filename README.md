@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm durga nagababu</h1>
-<h3 align="center">studying b.tech 3rd year, pursued cse specialization in artificial intelligence and data science</h3>
+<h3 align="center">studying b.tech final year, pursued cse specialization in artificial intelligence and data science</h3>
 <img align = "right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.wNGxHlTCsH9zU90WDouoDQHaFj?pid=ImgDet&rs=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagababumo&label=Profile%20views&color=0e75b6&style=flat" alt="nagababumo" /> </p>
 
 - 🌱 I’m currently learning **Generative AI & LLMS**
 
-- 👯 I’m looking to collaborate on **Generative AI,machine learning and data science projects**
+- 👯 I’m looking to collaborate on **Generative AI,deep learning,machine learning and data science projects**
 
 - 💬 Ask me about **machine learning , data science ,deep learning,flask,mern,html,python & javascript**
 
